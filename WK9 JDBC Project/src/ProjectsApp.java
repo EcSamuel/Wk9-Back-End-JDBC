@@ -1,4 +1,4 @@
-import main.java.Project;
+import projects.entity.Project;
 import projects.service.ProjectService;
 import java.util.List;
 import java.util.Objects;
